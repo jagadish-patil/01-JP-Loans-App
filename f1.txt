@@ -2,3 +2,6 @@
 public void m2 (){
 	// logic
 }
+
+int i = 10;
+int j = 20;
