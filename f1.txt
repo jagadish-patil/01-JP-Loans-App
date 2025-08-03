@@ -13,3 +13,5 @@ int j = 20;
 String name = "jagadish";
 
 boolean status = false;
+
+int d = 40;
