@@ -7,9 +7,6 @@ good mrng...
 
 how are you ?
 
-int i = 10;
-int j = 20;
-
 String name = "jagadish";
 boolean status = false;
 
@@ -23,3 +20,5 @@ int c = 50;
 
 int e = 50; 
 int f = 20; 
+
+String s1 = "jc";
