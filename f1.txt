@@ -20,3 +20,5 @@ int a = 10;
 int d = 40;
 
 int c = 50;
+
+int e = 50; 
